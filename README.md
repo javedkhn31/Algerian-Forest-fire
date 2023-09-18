@@ -1,3 +1,5 @@
+# ALGERIAON FOREST FIRE
+
 Project
 Introduction
 This repository contains a data science project focused on analyzing and predicting forest fires in Algeria. Forest fires pose a significant threat to both the environment and public safety, and this project aims to leverage data science techniques to better understand and mitigate these risks.
