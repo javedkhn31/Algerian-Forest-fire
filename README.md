@@ -1,4 +1,4 @@
-# ALGERIAON FOREST FIRE
+# ALGERIAN FOREST FIRE
 
 Project
 Introduction
